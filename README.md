@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="https://telegra.ph/file/a6f4764cb3e401b779dba.jpg">
+  <img src="https://telegra.ph/file/a6f4764cb3e401b779dba.jpg" alt="https://telegra.ph/file/a6f4764cb3e401b779dba.jpg">
 </p>
 <h1 align="center">
   <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax-Extra-Features">
+<a href="https://heroku.com/deploy?template=https://github.com/Harinand2/extra">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Ajax users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/_aadil_m__/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Harinand](https://t.me/harinand)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [TVK ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/tvkbotpdatez)</b>
